@@ -12,6 +12,7 @@
     - Connected database to website
     - Learned about admin page
     - Implemented user sign up and login
+    - Admin page gives administrators control over database (US: 17-20)
     * User stories: 2, 3, 4, 5, 13, 17, 18
 
 3rd Session: Jan 28th 10:15AM [https://teams.microsoft.com/l/meetingrecap?driveId=b%21fFO05SOMpkKVSXZMoiKTf4DC1Dm283ROgIfVoltUT0jSGHDfToeAQJGK-L8uFAqe&driveItemId=01DTWH6SWUE6PSGTP26BBZP3D6BROSFUEF&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fpchen396_gatech_edu%2FIQDUJ58jTfrwQ5fsfgxdItCFAdAC1U_HGBcRjwJoDqYdE4g&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fpchen396_gatech_edu%2FIQDUJ58jTfrwQ5fsfgxdItCFAdAC1U_HGBcRjwJoDqYdE4g&threadId=19%3Ameeting_OGM2NWQ0OTYtNTJkMy00YzQ4LWE1YjUtMTMwY2E5N2I0YzU4%40thread.v2&organizerId=03fd2f76-5aa0-41e8-8929-defa9d6bc032&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=069f404b-18db-4251-b266-1b957f204ca2&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet]
@@ -36,7 +37,7 @@
     - Hosting webpage at [https://pchen396.pythonanywhere.com/]
     * User Stories: 15, 16
 
-5th Session: Jan 30th 10:10AM
+5th Session: Jan 30th 10:10AM [https://teams.microsoft.com/l/meetingrecap?driveId=b%21fFO05SOMpkKVSXZMoiKTf4DC1Dm283ROgIfVoltUT0jSGHDfToeAQJGK-L8uFAqe&driveItemId=01DTWH6SVSRQATWT6O7ZF3SNVRJ4GGKYLG&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fpchen396_gatech_edu%2FIQCyjAE7T87-S7k2sU8MZWFmAfeVHyMPlCGNrbAPb8JTbIk&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fpchen396_gatech_edu%2FIQCyjAE7T87-S7k2sU8MZWFmAfeVHyMPlCGNrbAPb8JTbIk&threadId=19%3Ameeting_OGM2NWQ0OTYtNTJkMy00YzQ4LWE1YjUtMTMwY2E5N2I0YzU4%40thread.v2&organizerId=03fd2f76-5aa0-41e8-8929-defa9d6bc032&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=1e230353-501a-4a1c-bd31-378e2994261d&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet]
     . User Story 21 -> Implement Reporting Feature
     - Add a column to review database for reports received
     - Only show reviews with less than X reports -> 1 reports
@@ -44,4 +45,6 @@
     - Endpoint for reporting
     - Extra features - fill screen, change contact, and add links to footer
 
-Admin page gives administrators control over database (US: 17-20)
+Product
+    Link: https://pchen396.pythonanywhere.com/
+    Demo: [https://teams.microsoft.com/l/meetingrecap?driveId=b%21fFO05SOMpkKVSXZMoiKTf4DC1Dm283ROgIfVoltUT0jSGHDfToeAQJGK-L8uFAqe&driveItemId=01DTWH6SSO7PVEZSJFWRD36VJA3KLDPMQI&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fpchen396_gatech_edu%2FIQBO--pMySW0R79VINqWN7IIAXulMngGiyzIRfvrBtFOjSQ&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fpchen396_gatech_edu%2FIQBO--pMySW0R79VINqWN7IIAXulMngGiyzIRfvrBtFOjSQ&threadId=19%3Ameeting_OGM2NWQ0OTYtNTJkMy00YzQ4LWE1YjUtMTMwY2E5N2I0YzU4%40thread.v2&organizerId=03fd2f76-5aa0-41e8-8929-defa9d6bc032&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=d2e99e55-c3f2-4e78-bab6-017d45f4a1eb&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet]
