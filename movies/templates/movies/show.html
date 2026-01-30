@@ -34,6 +34,7 @@
         <hr />
         <ul class="list-group">
           {% for review in template_data.reviews %}
+          {% if review.reports < 1 %}
           <li class="list-group-item pb-3 pt-3">
             <h5 class="card-title">
               Review by {{ review.user.username }}
@@ -42,17 +43,26 @@
               {{ review.date }}
             </h6>
             <p class="card-text">{{ review.comment }}</p>
-            {% if user.is_authenticated and user == review.user %}
-            <a class="btn btn-primary"
-              href="{% url 'movies.edit_review' id=template_data.movie.id review_id=review.id %}">
-              Edit
-            </a>
-            <a class="btn btn-danger"
-              href="{% url 'movies.delete_review' id=template_data.movie.id review_id=review.id %}">
-              Delete
-            </a>
+            <div style="display: flex; gap: 5px;" >
+              {% if user.is_authenticated and user == review.user %}
+              <a class="btn btn-primary"
+                href="{% url 'movies.edit_review' id=template_data.movie.id review_id=review.id %}">
+                Edit
+              </a>
+              <a class="btn btn-danger"
+                href="{% url 'movies.delete_review' id=template_data.movie.id review_id=review.id %}">
+                Delete
+              </a>
+              {% endif %}
+              {% if user.is_authenticated %}
+                <a class="btn btn-danger" style="margin-left: auto"
+                  href="{% url 'movies.report_review' id=template_data.movie.id review_id=review.id %}">
+                  Report
+                </a>
+              </div>
             {% endif %}
           </li>
+          {% endif %}
           {% endfor %}
         </ul>
         {% if user.is_authenticated %}

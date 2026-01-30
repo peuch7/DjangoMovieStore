@@ -30,4 +30,18 @@
     - User can see its own order (must be logged)
     * User stories: 6, 7, 8, 9, 10, 11, 12, 19, 20
 
+4th Session: Jan 30th 1:20AM [https://teams.microsoft.com/l/meetingrecap?driveId=b%21fFO05SOMpkKVSXZMoiKTf4DC1Dm283ROgIfVoltUT0jSGHDfToeAQJGK-L8uFAqe&driveItemId=01DTWH6SVFS7QHYXRPBFFIEB2A43J6ZZ2D&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fpchen396_gatech_edu%2FIQCll-B8Xi8JSoIHQObT7OdDAV5XJbBl0Cxd5pzIB04VNPI&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fpchen396_gatech_edu%2FIQCll-B8Xi8JSoIHQObT7OdDAV5XJbBl0Cxd5pzIB04VNPI&threadId=19%3Ameeting_OGM2NWQ0OTYtNTJkMy00YzQ4LWE1YjUtMTMwY2E5N2I0YzU4%40thread.v2&organizerId=03fd2f76-5aa0-41e8-8929-defa9d6bc032&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=20837395-bc72-4f4c-8199-0a8474c02a34&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet]
+    . Ch. 13
+    - Set up PythonAnywhere
+    - Hosting webpage at [https://pchen396.pythonanywhere.com/]
+    * User Stories: 15, 16
+
+5th Session: Jan 30th 10:10AM
+    . User Story 21 -> Implement Reporting Feature
+    - Add a column to review database for reports received
+    - Only show reviews with less than X reports -> 1 reports
+    - UI element of reporting 
+    - Endpoint for reporting
+    - Extra features - fill screen, change contact, and add links to footer
+
 Admin page gives administrators control over database (US: 17-20)
