@@ -1,0 +1,19 @@
+Double curly braces: Variables, expressions, and template tags 
+are enclosed within double curly braces. For example, {{ variable }}.
+
+Template tags: Control structures and logic are defined within template 
+tags, which are enclosed within {% %}. Template tags allow for loops, 
+conditionals, and other control flow statements. 
+For example, {% if condition %} ... {% endif %}.
+
+Comments: Comments in DTL are enclosed within {# #} and are not 
+rendered in the final output HTML.
+
+Template inheritance: Django templates support inheritance, allowing 
+for the creation of base templates that define the overall structure 
+and layout of a page, with child templates inheriting and overriding 
+specific blocks or sections.
+
+Update contact information to me :D
+
+Copying from book introduces unwanted linebreaks!

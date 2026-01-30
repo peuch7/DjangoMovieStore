@@ -1,0 +1,33 @@
+1st Session: Jan 27th 10:00PM [https://teams.microsoft.com/l/meetingrecap?driveId=b%21fFO05SOMpkKVSXZMoiKTf4DC1Dm283ROgIfVoltUT0jSGHDfToeAQJGK-L8uFAqe&driveItemId=01DTWH6SVFS7QHYXRPBFFIEB2A43J6ZZ2D&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fpchen396_gatech_edu%2FIQCll-B8Xi8JSoIHQObT7OdDAV5XJbBl0Cxd5pzIB04VNPI&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fpchen396_gatech_edu%2FIQCll-B8Xi8JSoIHQObT7OdDAV5XJbBl0Cxd5pzIB04VNPI&threadId=19%3Ameeting_OGM2NWQ0OTYtNTJkMy00YzQ4LWE1YjUtMTMwY2E5N2I0YzU4%40thread.v2&organizerId=03fd2f76-5aa0-41e8-8929-defa9d6bc032&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=20837395-bc72-4f4c-8199-0a8474c02a34&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet]
+    . Ch. 1-3
+    - Setup and initial web app bringup
+    - Home and About page set-up
+    - Base template with header and footer
+    * User stories: 1
+
+2nd Session: Jan 27th 11:50PM [https://teams.microsoft.com/l/meetingrecap?driveId=b%21fFO05SOMpkKVSXZMoiKTf4DC1Dm283ROgIfVoltUT0jSGHDfToeAQJGK-L8uFAqe&driveItemId=01DTWH6SVFS7QHYXRPBFFIEB2A43J6ZZ2D&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fpchen396_gatech_edu%2FIQCll-B8Xi8JSoIHQObT7OdDAV5XJbBl0Cxd5pzIB04VNPI&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fpchen396_gatech_edu%2FIQCll-B8Xi8JSoIHQObT7OdDAV5XJbBl0Cxd5pzIB04VNPI&threadId=19%3Ameeting_OGM2NWQ0OTYtNTJkMy00YzQ4LWE1YjUtMTMwY2E5N2I0YzU4%40thread.v2&organizerId=03fd2f76-5aa0-41e8-8929-defa9d6bc032&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=20837395-bc72-4f4c-8199-0a8474c02a34&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet]
+    . Ch. 4-8
+    - Added movies
+    - Created model and organized sqlite database for movies
+    - Connected database to website
+    - Learned about admin page
+    - Implemented user sign up and login
+    * User stories: 2, 3, 4, 5, 13, 17, 18
+
+3rd Session: Jan 28th 10:15AM [https://teams.microsoft.com/l/meetingrecap?driveId=b%21fFO05SOMpkKVSXZMoiKTf4DC1Dm283ROgIfVoltUT0jSGHDfToeAQJGK-L8uFAqe&driveItemId=01DTWH6SWUE6PSGTP26BBZP3D6BROSFUEF&sitePath=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fpchen396_gatech_edu%2FIQDUJ58jTfrwQ5fsfgxdItCFAdAC1U_HGBcRjwJoDqYdE4g&fileUrl=https%3A%2F%2Fgtvault-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fpchen396_gatech_edu%2FIQDUJ58jTfrwQ5fsfgxdItCFAdAC1U_HGBcRjwJoDqYdE4g&threadId=19%3Ameeting_OGM2NWQ0OTYtNTJkMy00YzQ4LWE1YjUtMTMwY2E5N2I0YzU4%40thread.v2&organizerId=03fd2f76-5aa0-41e8-8929-defa9d6bc032&tenantId=482198bb-ae7b-4b25-8b7a-6d7f32faa083&callId=069f404b-18db-4251-b266-1b957f204ca2&threadType=Meeting&meetingType=MeetNow&subType=RecapSharingLink_RecapChiclet]
+    . Ch. 9-12
+    - Added review system
+    - User can create review
+    - User can edit its own review
+    - User can delete its own review
+    - User can read other users reviews
+    - Added cart functionality
+    - Enable user to add to cart (save information with cookies)
+    - Enable user to clear cart
+    - Created order and item database
+    - Enable user purchase (must be logged)
+    - Created order page
+    - User can see its own order (must be logged)
+    * User stories: 6, 7, 8, 9, 10, 11, 12, 19, 20
+
+Admin page gives administrators control over database (US: 17-20)
