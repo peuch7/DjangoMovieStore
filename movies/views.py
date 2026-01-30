@@ -65,7 +65,7 @@ def delete_review(request, id, review_id):
 @login_required
 def report_review(request, id, review_id):
     print("Hello World")
-    review = get_object_or_404(Review, id=review_id, user=request.user)
+    review = get_object_or_404(Review, id=review_id)
     review.reports += 1
     review.save()
     return redirect('movies.show', id=id) 

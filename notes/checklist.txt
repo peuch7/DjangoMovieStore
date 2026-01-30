@@ -19,7 +19,7 @@ User Story:
     18 - [X]
     19 - [X]
     20 - [X]
-    21 - [ ]
+    21 - [X]
 
 Extras:
-    Change information from tutorial to personal (Personalize) - [ ]
+    Change information from tutorial to personal (Personalize) - [X]
